@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a342e,100:d9c8a9&height=160&section=header&text=Blanca%20Ferreiro%20Gonz%C3%A1lez&fontSize=42&fontColor=f5efe6" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8c7a62&center=true&vCenter=true&width=820&height=40&lines=%3E+AI+Student+%40+ESEI+%7C+2nd+year;%3E+Learning+how+machines+learn%2C+one+algorithm+at+a+time;%3E+Building+k-NN+from+scratch+in+Java;%3E+Based+in+Vigo%2C+Galicia" alt="AI student at ESEI - Escola Superior de Enxeñaría Informática"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8c7a62&center=true&vCenter=true&width=820&height=40&lines=%3E+Machine+Learning+%7C+Java+%7C+Python;%3E+Learning+how+machines+learn%2C+one+algorithm+at+a+time;%3E+Building+k-NN+from+scratch+in+Java;%3E+Based+in+Vigo%2C+Galicia" alt="Machine Learning, Java, Python"/>
 </div>
 
 <p align="center">
-  Second-year Artificial Intelligence student at ESEI (Escola Superior de Enxeñaría Informática).<br/>
-  I like understanding how algorithms really work by building them from scratch, one step at a time.
+  Second-year AI student at ESEI, focused on machine learning and building algorithms from the ground up.
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 
 Languages I use regularly: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" align="center" alt="Java" /> Java · <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="24" align="center" alt="Python" /> Python
 
-Logic programming: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="24" align="center" alt="Prolog" /> Prolog (university coursework)
+Logic programming: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="24" align="center" alt="Prolog" /> Prolog
 
 Working environment: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="24" align="center" alt="Windows" /> Windows · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="24" align="center" alt="Linux Terminal" /> Linux Terminal · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="24" align="center" alt="VS Code" /> VS Code
 
@@ -29,7 +28,7 @@ Learning independently: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
 
 | Project | Description | Stack |
 |---|---|---|
-| **[knn-java](https://github.com/blancaferreiro/knn-java)** | k-Nearest Neighbors implemented from scratch in Java, applied to a customer churn prediction problem. | Java |
+// | **[knn-java](https://github.com/blancaferreiro/knn-java)** | k-Nearest Neighbors implemented from scratch in Java, applied to a customer churn prediction problem. | Java |
 | **Student Predictor** | Course project: a program that predicts student outcomes using k-NN. | Java |
 
 ## GitHub Stats
