@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/blanca-ferreiro-gonz%C3%A1lez-077521451"><img src="https://img.shields.io/badge/LinkedIn-8c7a62?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:blancaferreirogonzalez@gmail.com"><img src="https://img.shields.io/badge/Gmail-8c7a62?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+<p align="center">
+  <a href="mailto:blancaferreirogonzalez@gmail.com">blancaferreirogonzalez@gmail.com</a>
+</p>
 
 ## Languages and Tools
 
@@ -28,10 +31,9 @@ Learning independently: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
 
 | Project | Description | Stack |
 |---|---|---|
-| **knn-java** | k-Nearest Neighbors implemented from scratch in Java, applied to a customer churn prediction problem. | Java |
-| **Student Predictor** | Course project: a program that predicts student outcomes using k-NN. | Java |
+| **[knn-java](https://github.com/blancaferreiro/knn-java)** | k-NN classifier built from scratch in Java, with no ML libraries. Work in progress: validated on the Wine dataset first, churn prediction planned. | Java, Maven, JUnit |
+| **[student-predictor](https://github.com/blancaferreiro/student-predictor)** | Course project: a program that predicts student outcomes using k-NN. | Java |
 
-<!--
 ## GitHub Stats
 
 <p align="center">
@@ -48,8 +50,8 @@ Learning independently: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
     </td>
   </tr>
 </table>
--->
+
 
 ## Currently
 
-Working on: k-NN churn predictor in Java · Learning: Git & version control
+Working on: k-NN classifier in Java (evaluation on UCI datasets) · Learning: Git & version control
