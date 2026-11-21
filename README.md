@@ -32,7 +32,7 @@ Learning independently: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
 | Project | Description | Stack |
 |---|---|---|
 | **[knn-java](https://github.com/blancaferreiro/knn-java)** | k-NN classifier built from scratch in Java, with no ML libraries. Work in progress: validated on the Wine dataset first, churn prediction planned. | Java, Maven, JUnit |
-| **[student-predictor](https://github.com/blancaferreiro/student-predictor)** | Course project: a program that predicts student outcomes. | Java |
+| **[student-performance-predictor](https://github.com/blancaferreiro/student-performance-predictor)** | Course project: a program that predicts student outcomes. | Java |
 
 ## GitHub Stats
 
