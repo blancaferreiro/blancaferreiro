@@ -28,9 +28,10 @@ Learning independently: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
 
 | Project | Description | Stack |
 |---|---|---|
-// | **[knn-java](https://github.com/blancaferreiro/knn-java)** | k-Nearest Neighbors implemented from scratch in Java, applied to a customer churn prediction problem. | Java |
+| **knn-java** | k-Nearest Neighbors implemented from scratch in Java, applied to a customer churn prediction problem. | Java |
 | **Student Predictor** | Course project: a program that predicts student outcomes using k-NN. | Java |
 
+<!--
 ## GitHub Stats
 
 <p align="center">
@@ -47,6 +48,7 @@ Learning independently: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
     </td>
   </tr>
 </table>
+-->
 
 ## Currently
 
